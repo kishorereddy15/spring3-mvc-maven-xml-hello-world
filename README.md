@@ -1,4 +1,4 @@
-Maven - Spring 3 MVC Hello World for apachetomcat added very new line
+Maven - Spring 3 MVC Hello World for apachetomcat added very new line google search
 ===============================
 Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool.
 
