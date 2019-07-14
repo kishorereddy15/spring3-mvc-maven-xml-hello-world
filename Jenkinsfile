@@ -1,3 +1,4 @@
+
 node { 
      def mvnHome 
     stage('getscm')
@@ -27,7 +28,7 @@ node {
    stage ('deploy')
          {
             echo 'deployment started' 
-       bat '''copy C:\\Users\\Home\\.jenkins\\workspace\\pipe-tomcat\\target\\*.war C:\\Users\\Home\\Desktop\\softwares\\apache-tomcat-9.0.21\webapps\\'''
+       bat '''copy C:\\Users\\Home\\.jenkins\\workspace\\pipe-tomcat\\target\\*.war C:\\Users\\Home\\Desktop\\softwares\\apache-tomcat-9.0.21\\webapps\\'''
 
 
 
